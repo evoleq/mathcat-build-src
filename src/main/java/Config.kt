@@ -1,15 +1,35 @@
 object Config {
 
     object Module {
+        object Template {
+            val group = "org.evoleq"
+            val version = "1.0.0"
+            val artefactId = "mathcat-module-template"
+        }
+        object MathcatBundle {
+            val group = "org.evoleq"
+            val version = "1.0.0"
+            val artefactId = "mathcat-bundle"
+        }
         object MathcatCore {
             val group = "org.evoleq"
             val version = "1.0.0"
             val artefactId = "mathcat-core"
         }
+        object MathcatMorphism {
+            val group = "org.evoleq"
+            val version = "1.0.0"
+            val artefactId = "mathcat-morphism"
+        }
         object MathcatResult {
             val group = "org.evoleq"
             val version = "1.0.0"
             val artefactId = "mathcat-result"
+        }
+        object MathcatState {
+            val group = "org.evoleq"
+            val version = "1.0.0"
+            val artefactId = "mathcat-state"
         }
         object MathcatStructure {
             val group = "org.evoleq"
