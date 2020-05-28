@@ -16,6 +16,11 @@ object Config {
             val version = "1.0.0"
             val artefactId = "mathcat-core"
         }
+        object MathcatLens {
+            val group = "org.evoleq"
+            val version = "1.0.0"
+            val artefactId = "mathcat-lense"
+        }
         object MathcatMorphism {
             val group = "org.evoleq"
             val version = "1.0.0"
@@ -30,6 +35,11 @@ object Config {
             val group = "org.evoleq"
             val version = "1.0.0"
             val artefactId = "mathcat-state"
+        }
+        object MathcatStore {
+            val group = "org.evoleq"
+            val version = "1.0.0"
+            val artefactId = "mathcat-store"
         }
         object MathcatStructure {
             val group = "org.evoleq"
