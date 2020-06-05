@@ -11,6 +11,11 @@ object Config {
             val version = "1.0.0"
             val artefactId = "mathcat-bundle"
         }
+        object MathcatContinuation {
+            val group = "org.evoleq"
+            val version = "1.0.0"
+            val artefactId = "mathcat-continuation"
+        }
         object MathcatCore {
             val group = "org.evoleq"
             val version = "1.0.0"
