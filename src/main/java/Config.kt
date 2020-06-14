@@ -56,6 +56,11 @@ object Config {
             val version = "1.0.0"
             val artefactId = "mathcat-yoneda"
         }
+        object MathcatOperatorTree {
+            val group = "org.evoleq"
+            val version = "1.0.0"
+            val artefactId = "mathcat-operator-tree"
+        }
     }
     
     object Versions {
