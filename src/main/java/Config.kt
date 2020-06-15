@@ -31,6 +31,11 @@ object Config {
             val version = "1.0.0"
             val artefactId = "mathcat-morphism"
         }
+        object MathcatReader {
+            val group = "org.evoleq"
+            val version = "1.0.0"
+            val artefactId = "mathcat-reader"
+        }
         object MathcatResult {
             val group = "org.evoleq"
             val version = "1.0.0"
