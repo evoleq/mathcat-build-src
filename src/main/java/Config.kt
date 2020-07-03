@@ -3,68 +3,73 @@ object Config {
     object Module {
         object Template {
             val group = "org.evoleq"
-            val version = "1.1.0"
+            val version = "1.0.0"
             val artefactId = "mathcat-module-template"
         }
         object MathcatBundle {
             val group = "org.evoleq"
-            val version = "1.1.0"
+            val version = "1.0.0"
             val artefactId = "mathcat-bundle"
         }
         object MathcatContinuation {
             val group = "org.evoleq"
-            val version = "1.1.0"
+            val version = "1.0.0"
             val artefactId = "mathcat-continuation"
         }
         object MathcatCore {
             val group = "org.evoleq"
-            val version = "1.1.0"
+            val version = "1.0.0"
             val artefactId = "mathcat-core"
         }
         object MathcatLens {
             val group = "org.evoleq"
-            val version = "1.1.0"
+            val version = "1.0.0"
             val artefactId = "mathcat-lense"
         }
         object MathcatMorphism {
             val group = "org.evoleq"
-            val version = "1.1.0"
+            val version = "1.0.0"
             val artefactId = "mathcat-morphism"
         }
         object MathcatReader {
             val group = "org.evoleq"
-            val version = "1.1.0"
+            val version = "1.0.0"
             val artefactId = "mathcat-reader"
         }
         object MathcatResult {
             val group = "org.evoleq"
-            val version = "1.1.0"
+            val version = "1.0.0"
             val artefactId = "mathcat-result"
         }
         object MathcatState {
             val group = "org.evoleq"
-            val version = "1.1.0"
+            val version = "1.0.0"
             val artefactId = "mathcat-state"
         }
         object MathcatStore {
             val group = "org.evoleq"
-            val version = "1.1.0"
+            val version = "1.0.0"
             val artefactId = "mathcat-store"
         }
         object MathcatStructure {
             val group = "org.evoleq"
-            val version = "1.1.0"
+            val version = "1.0.0"
             val artefactId = "mathcat-structure"
         }
         object MathcatYoneda {
             val group = "org.evoleq"
-            val version = "1.1.0"
+            val version = "1.0.0"
             val artefactId = "mathcat-yoneda"
         }
         object MathcatOperatorTree {
             val group = "org.evoleq"
-            val version = "1.1.0"
+            val version = "1.0.0"
             val artefactId = "mathcat-operator-tree"
+        }
+        object MathcatProfunctorOptics {
+            val group = "org.evoleq"
+            val version = "1.0.0"
+            val artefactId = "mathcat-profunctor-optics"
         }
     }
     
