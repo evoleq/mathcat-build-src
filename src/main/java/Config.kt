@@ -31,6 +31,16 @@ object Config {
             val version = "1.0.0"
             val artefactId = "mathcat-morphism"
         }
+        object MathcatPrism {
+            val group = "org.evoleq"
+            val version = "1.0.0"
+            val artefactId = "mathcat-prism"
+        }
+        object MathcatProfunctorOptics {
+            val group = "org.evoleq"
+            val version = "1.0.0"
+            val artefactId = "mathcat-profunctor-optics"
+        }
         object MathcatReader {
             val group = "org.evoleq"
             val version = "1.0.0"
@@ -66,11 +76,7 @@ object Config {
             val version = "1.0.0"
             val artefactId = "mathcat-operator-tree"
         }
-        object MathcatProfunctorOptics {
-            val group = "org.evoleq"
-            val version = "1.0.0"
-            val artefactId = "mathcat-profunctor-optics"
-        }
+        
     }
     
     object Versions {
