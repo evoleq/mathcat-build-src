@@ -68,6 +68,11 @@ object Config {
             const val version = minVersion
             const val artefactId = "mathcat-state"
         }
+        object MathcatStorage {
+            const val group = "org.evoleq"
+            const val version = minVersion
+            const val artefactId = "mathcat-storage"
+        }
         object MathcatStore {
             const val group = "org.evoleq"
             const val version = minVersion
